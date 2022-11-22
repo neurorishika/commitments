@@ -1,7 +1,7 @@
 ---
-title: Diversity, Equity, and Inclusion
-layout: page
-permalink: /dei
+title: DEI
+layout: default
+permalink: /dei-home
 nav_order: 2
 ---
 
