@@ -9,7 +9,7 @@ nav_order: 1
 
 This page is a collection of *commitments* and *standards* that I have set for myself. I hope that this page will be a useful resource for you as well. The website is still under construction, so please excuse the mess. I will be adding more content as I go along.
 
-### [Diversity, Equity, and Inclusion](/dei-home)
+### [Diversity, Equity, and Inclusion](/commitments/dei-home)
 
 ### [Open Science](/commitments/open-science)
 
