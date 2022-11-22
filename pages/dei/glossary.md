@@ -1,7 +1,7 @@
 ---
 title: Glossary of DEI Terms
 layout: default
-nav_order: 2
+nav_order: 5
 parent: Diversity, Equity, and Inclusion
 permalink: /dei/glossary
 ---
