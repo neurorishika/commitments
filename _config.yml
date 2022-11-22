@@ -3,6 +3,10 @@ description: Progress needs commitments and accountability. These are mine.
 theme: just-the-docs
 
 url: https://neurorishika.github.io/commitments
+logo: "nrcommitment.png"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  About Me: https://neurorishika.github.io
+
+aux_links_new_tab: true  
+  
