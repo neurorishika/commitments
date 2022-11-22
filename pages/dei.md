@@ -1,7 +1,7 @@
 ---
 title: Diversity, Equity, and Inclusion
 layout: page
-permalink: /commitments/dei
+permalink: /dei
 nav_order: 2
 ---
 
