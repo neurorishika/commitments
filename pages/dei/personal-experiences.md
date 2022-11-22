@@ -8,6 +8,9 @@ permalink: /dei/personal-experiences
 
 # My Personal Experiences with Diversity, Equity, and Inclusion
 
+![Rishika at Great Falls](/assets/images/RishikaGreatFalls.jpg)
+
+
 Often, you don’t think about who you are until suddenly, you're put in a situation where everything you thought you knew is shattered, making you question the most fundamental “truths” of your life. While trying to understand animal behavior, I have learned that every time you think you’ve figured something out, nature will always find a way to surprise you. However, over the last three years or so, I also learned that life will do the same. For a significant fraction of my life, I presented as a cisgender, heterosexual-passing man in the religious and racial majority, rarely having to think about my identity. But over the last few years, a lot has changed – from finishing a master’s thesis in a foreign country during a global pandemic to finally accepting that I was a woman born in a body that did not align with my assigned sex at birth. 
 
 While I have been extremely privileged in my experience as a woman of color and a transgender person because of highly supportive friends, family, and academic mentors, I suddenly faced problems I would have never even recognized before. My transition affected aspects of life that I thought would be wholly independent and blind to my identity. I would often be stared at or talked over, even in purely academic contexts like conferences or workspaces. I finally realized the challenges one faces as a gender-nonconforming person or a woman in science– sometimes to be heard or taken seriously; and sometimes for our safety and comfort, physical and emotional. 
