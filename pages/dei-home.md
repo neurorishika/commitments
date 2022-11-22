@@ -3,6 +3,7 @@ title: Diversity, Equity, and Inclusion
 layout: default
 nav_order: 2
 permalink: /dei-home
+has_children: true
 ---
 
 # Diversity, Equity, and Inclusion
