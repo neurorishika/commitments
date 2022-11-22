@@ -1,7 +1,6 @@
 ---
-title: DEI
+title: Diversity, Equity, and Inclusion
 layout: default
-permalink: /dei-home
 nav_order: 2
 ---
 
@@ -22,13 +21,13 @@ If I fail to live up to these standards, you can hold me accountable by anonymou
 
 [Anonymous Reporting Form](https://forms.gle/m77S8bbNGzufqiXz8){: .btn .btn-purple }.
 
-You can read about my personal experiences with diversity, equity, and inclusion here: [Personal Experiences](/commitments/dei/personal-experiences).
+You can read about my personal experiences with diversity, equity, and inclusion here: [Personal Experiences](/dei/personal-experiences).
 
 ## Introduction
 
 Here is a collection of resources that I have found useful in my journey to promote diversity, equity, and inclusion in academia. 
 
-[Glossary of Terms](/commitments/dei/glossary){: .btn .btn-purple }
+[Glossary of Terms](/dei/glossary){: .btn .btn-purple }
 
 
 ## Disclaimer
