@@ -2,8 +2,8 @@
 title: My Personal Experiences with Diversity, Equity, and Inclusion
 layout: page
 permalink: /dei/personal-experiences
-nav_order: 2
-parent: DEI
+child_nav_order: 2
+parent: Diversity, Equity, and Inclusion
 ---
 
 # My Personal Experiences with Diversity, Equity, and Inclusion
