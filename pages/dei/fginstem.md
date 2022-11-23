@@ -2,7 +2,7 @@
 title: First Generation Students in STEM
 layout: default
 nav_order: 6
-parent: Underrepresented Minorities in STEM
+parent: Minorities in STEM
 permalink: /dei/fg-in-stem
 ---
 
