@@ -2,7 +2,7 @@
 title: Queer in STEM
 layout: default
 nav_order: 3
-parent: Diversity, Equity, and Inclusion
+parent: Underrepresented Minorities in STEM
 permalink: /dei/q-in-stem
 ---
 

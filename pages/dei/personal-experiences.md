@@ -16,12 +16,25 @@ While trying to understand animal behavior, I have learned that every time you t
 
 While I have been extremely privileged in my experience as a woman of color and a transgender person because of highly supportive friends, family, and academic mentors, I suddenly faced problems I would have never even recognized before. My transition affected aspects of life that I thought would be wholly independent and blind to my identity. I would often be stared at or talked over, even in purely academic contexts like conferences or workspaces. I finally realized the challenges one faces as a gender-nonconforming person or a woman in science – *to be heard or taken seriously, and for our safety and comfort, physical and emotional*. 
 
+
 It was terrifying and overwhelming, and then the Covid 19 global pandemic hit. We were stuck alone in our homes in constant fear of our mortalities. It became increasingly hard for me to continue attending classes virtually. However, a few months into the pandemic, I saw how my friends and family rallied for me as I struggled with all the new changes. **I felt the enormous privilege of having the support structure they created for me. That was when I decided to go from walking on eggshells to making a stand for my voice to be heard, to use the privilege I had to advocate for others.**
+
+![Baby Steps](https://raw.githubusercontent.com/neurorishika/commitments/main/assets/images/pridehairdo.jpg)
+
+    *Every day, I took baby steps to improve my life and accepting myself, like my hairdo at the pride parade I organized in Pune in 2019*
+
+
+> I have been fortunate to have had the support of my mentors and colleagues, but I know that this is not the case for everyone. I have also been fortunate to have had the support of my family and friends, but I know that this is not the case for everyone. Finally, I have been fortunate to have had the support of my community, but I know that this is not the case for everyone. That is my privilege. This is why I am committed to making sure that everyone has the support they need to be successful in their lives.
 
 I had always been socially active at my institute, taking multiple leadership roles across the years as the head of different societies for festivals and science competitions. As a result, I had a decent amount of social capital, which I was determined to use to improve student's lives at my institute. Thus, I helped establish the [Satrangi Queer Collective at IISER Pune](https://satrangi.co.in/). With Satrangi and my academic mentors’ help, I became one of the first transgender students to be allocated gender-affirmative housing at any national science institute. I then used my precedent to help other national institutes establish queer collectives to advocate for better housing for transgender students. I also represented my institute at a coalition of queer societies in national institutes of India. Once I moved to the US to HHMI Janelia Research Campus, I was one of the early members to join the HHMI Pride Employee Affinity Group.
 
+
 ![Small Successes](https://raw.githubusercontent.com/neurorishika/commitments/main/assets/images/small-success.png)
+
+    *Small successes can be the most rewarding, like when I finally was given a room in the women's hostel at IISER Pune*
+
 
 As the conditions have improved, I have returned my focus to Neuroscience. I realize that all my experiences have changed the lens through which I look at the world. I recognize my identity as a diasporic queer woman of color in science. Therefore, I have committed myself to help with any diversity, equity, and inclusion initiatives wherever I go and help organize discussions to improve awareness about gender, race, class related inequities. I want to continue being an active advocate and work with other like-minded trainees to improve the lives of the people around me through open conversations and community-organized efforts while working on my scientific pursuits.
 
 
+Read more about my coming out story [here](https://neurorishika.github.io/thoughts/posts/l2s.html).

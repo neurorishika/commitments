@@ -1,9 +1,9 @@
 ---
-title: Neurodivergence and Disability in STEM
+title: First Generation Students in STEM
 layout: default
-nav_order: 4
+nav_order: 6
 parent: Underrepresented Minorities in STEM
-permalink: /dei/d-in-stem
+permalink: /dei/fg-in-stem
 ---
 
 # Resources for Neurodivergent and Disabled Individuals in STEM careers

@@ -1,7 +1,7 @@
 ---
 title: Inclusivity Guidelines
 layout: default
-nav_order: 7
+nav_order: 2
 parent: Diversity, Equity, and Inclusion
 permalink: /dei/guidelines
 ---
@@ -62,6 +62,8 @@ The checklist to be followed for resolving a conflict:
 
 #### Stage 2: Warning or Removal
 
+If the incident is not a violation of the guidelines or is a conflict that is of a personal nature or immediately resolvable, I will talk with the people involved and attempt to resolve the conflict informally. These conflicts will not count towards issued warnings. If not resolved, the conflict will be escalated as a workplace conflict.
+
 If the violation is a minor infraction, I will ask the person(s) who violated the guidelines to apologize and to refrain from repeating the violation. This will be documented in the file for the individual(s) concerned as a warning. If the similar violations are reported in the future, the individual(s) will be asked to leave the space after the second warning i.e. the third violation. 
 
 If the violation is a major infraction, the appropriate authorities (e.g. the human resources department) will be notified. An external senior advisor (senior faculty member / senior staff member) and any available diversity and inclusion officer will be consulted to determine the appropriate course of action. If the violation is found to be a major infraction by the other parties, the individual(s) will be asked to leave the space immediately. 
@@ -69,6 +71,7 @@ If the violation is a major infraction, the appropriate authorities (e.g. the hu
 If the violation is a criminal offense, the police will be notified and the person will be asked to leave the space immediately.
 
 **Resources:**
+
 [Post Incident Report]("/assets/digital/post-incident-report.pdf"){: .btn .btn-purple }
 
 #### Stage 3: Follow-up
@@ -80,9 +83,11 @@ I will follow up with the targeted individual(s) to ensure that they are safe an
 Documenting the incident and the resolution of the incident is important for the safety of the targeted individual(s) and the individual(s) who violated the guidelines. The incident reports will be kept on file and in a digital archive for future reference. The incident reports will be kept confidential and will only be shared with the targeted individual(s) and the individual(s) who violated the guidelines.
 
 **Resources:**
+
 [Follow Up Report]("/assets/digital/follow-up-report.pdf"){: .btn .btn-purple }
 
 ### Documentation Checklist
+
 - [ ] Anonymous violation report
 - [ ] Incident report filled out by the moderator
 - [ ] Moderator Checklist

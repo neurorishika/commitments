@@ -1,9 +1,11 @@
 ---
-title: URM in STEM
+title: Underrepresented Minorities in STEM
 layout: default
 nav_order: 4
 parent: Diversity, Equity, and Inclusion
 permalink: /dei/urm-in-stem
+has_children: true
+has_toc: false
 ---
 
-# Resources for Underrepresented Racial/Ethnic Minorities in STEM careers
+# Resources for Underrepresented Minorities in STEM
