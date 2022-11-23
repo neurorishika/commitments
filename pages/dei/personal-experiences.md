@@ -8,7 +8,7 @@ permalink: /dei/personal-experiences
 
 # My Personal Experiences with Diversity, Equity, and Inclusion
 
-![Rishika at Great Falls](https://raw.githubusercontent.com/neurorishika/commitments/main/assets/images/great-falls.jpeg)
+![Rishika at Great Falls](https://raw.githubusercontent.com/neurorishika/resources/main/assets/images/great-falls.jpeg)
 
 *Often, you don’t think about who you are until suddenly, you're put in a situation where everything you thought you knew is shattered, making you question the most fundamental “truths” of your life.*
 
@@ -19,7 +19,7 @@ While I have been extremely privileged in my experience as a woman of color and 
 
 It was terrifying and overwhelming, and then the Covid 19 global pandemic hit. We were stuck alone in our homes in constant fear of our mortalities. It became increasingly hard for me to continue attending classes virtually. However, a few months into the pandemic, I saw how my friends and family rallied for me as I struggled with all the new changes. **I felt the enormous privilege of having the support structure they created for me. That was when I decided to go from walking on eggshells to making a stand for my voice to be heard, to use the privilege I had to advocate for others.**
 
-![Baby Steps](https://raw.githubusercontent.com/neurorishika/commitments/main/assets/images/pridehairdo.jpg)
+![Baby Steps](https://raw.githubusercontent.com/neurorishika/resources/main/assets/images/pridehairdo.jpg)
 ```Every day, I took baby steps to improve my life and accepting myself, like my hairdo at the pride parade I organized in Pune in 2019```
 
 
@@ -28,7 +28,7 @@ It was terrifying and overwhelming, and then the Covid 19 global pandemic hit. W
 I had always been socially active at my institute, taking multiple leadership roles across the years as the head of different societies for festivals and science competitions. As a result, I had a decent amount of social capital, which I was determined to use to improve student's lives at my institute. Thus, I helped establish the [Satrangi Queer Collective at IISER Pune](https://satrangi.co.in/). With Satrangi and my academic mentors’ help, I became one of the first transgender students to be allocated gender-affirmative housing at any national science institute. I then used my precedent to help other national institutes establish queer collectives to advocate for better housing for transgender students. I also represented my institute at a coalition of queer societies in national institutes of India. Once I moved to the US to HHMI Janelia Research Campus, I was one of the early members to join the HHMI Pride Employee Affinity Group.
 
 
-![Small Successes](https://raw.githubusercontent.com/neurorishika/commitments/main/assets/images/small-success.png)
+![Small Successes](https://raw.githubusercontent.com/neurorishika/resources/main/assets/images/small-success.png)
 ```Small successes can be the most rewarding, like when I finally was given a room in the women's hostel at IISER Pune```
 
 

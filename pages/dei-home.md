@@ -24,21 +24,21 @@ If I fail to live up to these standards, you can hold me accountable by anonymou
 
 [Anonymous Reporting Form](https://forms.gle/m77S8bbNGzufqiXz8){: .btn .btn-purple }.
 
-You can read about my personal experiences with diversity, equity, and inclusion here: [Personal Experiences](/commitments/dei/personal-experiences).
+You can read about my personal experiences with diversity, equity, and inclusion here: [Personal Experiences](/resources/dei/personal-experiences).
 
 ## Introduction
 
 Here is a collection of resources that I have found useful in my journey to promote diversity, equity, and inclusion in academia. 
 
-[Glossary of Terms](/commitments/dei/glossary){: .btn .btn-purple .mr-2 }
-[Inclusivity Guidelines](/commitments/dei/guidelines){: .btn .btn-green .mr-2 }
-[Resources for Women in STEM](/commitments/dei/w-in-stem){: .btn .btn-blue .mr-2 }
-[Resources for People of Color in STEM](/commitments/dei/poc-in-stem){: .btn .btn-green .mr-2 }
-[Resources for Queer People in STEM](/commitments/dei/q-in-stem){: .btn .btn-purple .mr-2 }
-[Resources for Neurodivergent and Disabled Individuals in STEM](/commitments/dei/d-in-stem){: .btn .btn-blue .mr-2 }
-[Resources for Diaspora in STEM](/commitments/dei/dia-in-stem){: .btn .btn-purple .mr-2 }
-[Resources for First-Generation Students in STEM](/commitments/dei/fg-in-stem){: .btn .btn-green .mr-2 }
-[Resources for Allies](/commitments/dei/allies){: .btn .btn-blue .mr-2 }
+[Glossary of Terms](/resources/dei/glossary){: .btn .btn-purple .mr-2 }
+[Inclusivity Guidelines](/resources/dei/guidelines){: .btn .btn-green .mr-2 }
+[Resources for Women in STEM](/resources/dei/w-in-stem){: .btn .btn-blue .mr-2 }
+[Resources for People of Color in STEM](/resources/dei/poc-in-stem){: .btn .btn-green .mr-2 }
+[Resources for Queer People in STEM](/resources/dei/q-in-stem){: .btn .btn-purple .mr-2 }
+[Resources for Neurodivergent and Disabled Individuals in STEM](/resources/dei/d-in-stem){: .btn .btn-blue .mr-2 }
+[Resources for Diaspora in STEM](/resources/dei/dia-in-stem){: .btn .btn-purple .mr-2 }
+[Resources for First-Generation Students in STEM](/resources/dei/fg-in-stem){: .btn .btn-green .mr-2 }
+[Resources for Allies](/resources/dei/allies){: .btn .btn-blue .mr-2 }
 
 
 ## Disclaimer
