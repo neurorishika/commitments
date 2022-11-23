@@ -5,11 +5,11 @@ permalink: /
 nav_order: 1
 ---
 
-# Welcome to Neurorishika's Commitments Page!
+# Welcome to Neurorishika's Resources
 
 ![Neurorishika](https://raw.githubusercontent.com/neurorishika/commitments/main/assets/images/profilecard.png)
 
-This page is a collection of *commitments* and *standards* that I have set for myself. I hope that this page will be a useful resource for you as well. Feel free to use the resources on this page for your own lab, group, or organization or for personal use with appropriate attribution.
+This page is a collection of *commitments* and *standards* that I have set for myself along with the resources that I have used to create them. I hope that this page will be a useful resource for you as well. Feel free to use the resources on this page for personal use or for your own lab, group, or organization with appropriate attribution.
 
 ## Core Values
 
