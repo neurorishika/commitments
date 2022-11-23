@@ -30,15 +30,15 @@ You can read about my personal experiences with diversity, equity, and inclusion
 
 Here is a collection of resources that I have found useful in my journey to promote diversity, equity, and inclusion in academia. 
 
-[Glossary of Terms](/commitments/dei/glossary) {: .btn .btn-purple .mr-2 }
-[Inclusivity Guidelines](/commitments/dei/guidelines) {: .btn .btn-green .mr-2 }
-[Resources for Women in STEM](/commitments/dei/w-in-stem) {: .btn .btn-blue .mr-2 }
-[Resources for People of Color in STEM](/commitments/dei/poc-in-stem) {: .btn .btn-green .mr-2 }
-[Resources for Queer People in STEM](/commitments/dei/q-in-stem) {: .btn .btn-blue .mr-2 }
-[Resources for Neurodivergent and Disabled Individuals in STEM](/commitments/dei/d-in-stem) {: .btn .btn-purple .mr-2 }
-[Resources for Diaspora in STEM](/commitments/dei/dia-in-stem) {: .btn .btn-gree .mr-2 }
-[Resources for First-Generation Students in STEM](/commitments/dei/fg-in-stem) {: .btn .btn-purple .mr-2 }
-[Resources for Allies](/commitments/dei/allies) {: .btn .btn-blue .mr-2 }
+[Glossary of Terms](/commitments/dei/glossary){: .btn .btn-purple .mr-2 }
+[Inclusivity Guidelines](/commitments/dei/guidelines){: .btn .btn-green .mr-2 }
+[Resources for Women in STEM](/commitments/dei/w-in-stem){: .btn .btn-blue .mr-2 }
+[Resources for People of Color in STEM](/commitments/dei/poc-in-stem){: .btn .btn-green .mr-2 }
+[Resources for Queer People in STEM](/commitments/dei/q-in-stem){: .btn .btn-blue .mr-2 }
+[Resources for Neurodivergent and Disabled Individuals in STEM](/commitments/dei/d-in-stem){: .btn .btn-purple .mr-2 }
+[Resources for Diaspora in STEM](/commitments/dei/dia-in-stem){: .btn .btn-gree .mr-2 }
+[Resources for First-Generation Students in STEM](/commitments/dei/fg-in-stem){: .btn .btn-purple .mr-2 }
+[Resources for Allies](/commitments/dei/allies){: .btn .btn-blue .mr-2 }
 
 
 ## Disclaimer
