@@ -23,7 +23,7 @@ I value having a diverse community of individuals around me. I believe that dive
 
 I believe that science should be open and accessible to everyone. I believe that science should be reproducible and for that we should strive to make the scientific process and the results as transparent as possible. I also believe that we should strive to make the entire scientific process ethically motivated and that we should strive to make science a force for good by minimizing use of resources and maximizing the impact of our work.
 
-### [Individual Growth and Development](/resources/individual-growth-home)
+### [Individual Growth and Professional Development](/resources/individual-growth-home)
 
 Each of us is unique and we all have our own strengths and weaknesses. I strive to recognize the strengths of each individual and their potential to grow and develop, irrespective of their background or career stage. I believe that we should strive to be lifelong learners and that we should strive to be better people every day.
 
@@ -31,7 +31,7 @@ Each of us is unique and we all have our own strengths and weaknesses. I strive 
 
 I believe that good experimental design is the foundation of good science. I believe that we should strive to design experiments that are as simple and unbiased as possible while still being able to answer the question at hand. I also believe that this can be achieved by using a combination of the use of theoretical models to guide the experimental design, use of minimal controls, and smart and appropriate statistical analysis.
 
-### [Collaboration](/resources/collaboration-home)
+### [Collaboration and Networking](/resources/collaboration-home)
 
 I believe that collaboration is the key to success. I believe that we can achieve more by working together than by working alone. I believe that we should strive to create an environment where everyone feels comfortable to share their ideas and opinions and where everyone feels that they belong and are valued. Further, I believe that everyone should learn the skills needed to network in the scientific community and to collaborate with others.
 
