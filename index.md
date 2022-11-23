@@ -25,7 +25,7 @@ I believe that science should be open and accessible to everyone. I believe that
 
 ### [Individual Growth and Development](/resources/individual-growth-home)
 
-Each of us is unique and we all have our own strengths and weaknesses. I strive to recognize the strengths of each individual and to help them grow and develop, irrespective of their background or career stage. I believe that we should strive to be lifelong learners and that we should strive to be better people every day.
+Each of us is unique and we all have our own strengths and weaknesses. I strive to recognize the strengths of each individual and their potential to grow and develop, irrespective of their background or career stage. I believe that we should strive to be lifelong learners and that we should strive to be better people every day.
 
 ### [Good Experimental Design and Analysis](/resources/experimental-design-home)
 
