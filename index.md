@@ -7,26 +7,26 @@ nav_order: 1
 
 # Welcome to Neurorishika's Commitments and Resources Page!
 
-This page is a collection of *commitments* and *standards* that I have set for myself. I hope that this page will be a useful resource for you as well. The website is still under construction, so please excuse the mess. I will be adding more content as I go along.
+![Neurorishika](https://raw.githubusercontent.com/neurorishika/commitments/main/assets/images/profilecard.png)
+
+This page is a collection of *commitments* and *standards* that I have set for myself. I hope that this page will be a useful resource for you as well. Feel free to use the resources on this page for your own lab, group, or organization or for personal use with appropriate attribution.
 
 ### [Diversity, Equity, and Inclusion](/commitments/dei-home)
 
-### [Open Science](/commitments/open-science)
+### [Open Science](/commitments/open-science-home)
 
-### [Experimental Design](/commitments/experimental-design)
+### [Good Experimental Design](/commitments/experimental-design-home)
 
-### [Data Analysis](/commitments/data-analysis)
-
-### [Data Management](/commitments/data-management)
-
-### [Data Sharing](/commitments/data-sharing)
-
-### [Networking](/commitments/networking)
+### [Networking](/commitments/networking-home)
 
 
 ## Contact
 
-If you have any questions or comments, please feel free to contact me at [neurorishika@gmail.com](mailto: neurorishika@gmail.com).
+If you have any questions or comments, please feel free to contact me at [neurorishika@gmail.com](mailto: neurorishika@gmail.com) or reach out to me on [Twitter](https://twitter.com/neurorishika) or [LinkedIn](https://www.linkedin.com/in/neurorishika/).
+
+## Disclaimer and Improvements
+
+ The website is still under construction, so please excuse the mess. I will be adding more content as I go along. If you have any suggestions for improving the website, please feel free to submit a pull request at any of the pages on the website. You can also submit an issue on the [GitHub repository](https://github.com/neurorishika/commitments) for the website.
 
 ## Acknowledgements
 
