@@ -1,103 +1,51 @@
-# just-the-docs-template
+# Welcome to Neurorishika's Resources
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+![Neurorishika](https://raw.githubusercontent.com/neurorishika/commitments/main/assets/images/profilecard.png)
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+This page is a collection of *commitments* and *standards* that I have set for myself along with the resources that I have used to create them. I hope that this page will be a useful resource for you as well. Feel free to use the resources on this page for personal use or for your own lab, group, or organization with appropriate attribution.
 
-More specifically, the created site:
+## Core Values
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+I have a few core values that I try to live by. These values are not always easy to live by, but I try my best to do so. I hope that these values will be be good guiding principles for you as well.
 
-To get started with creating a site, just click "[use this template]"!
+### [Diversity, Equity, and Inclusion](/commitments/dei-home)
 
-After completing the creation of your new site on GitHub, update it as needed:
+I value having a diverse community of individuals around me. I believe that diversity is a strength and that we can learn from each other. I believe that we should strive to create an equitable environment where everyone has equal opportunity to succeed, and where everyone feels safe and welcome.
 
-## Replace the content of the template pages
+### [Open and Ethical Science](/commitments/open-science-home)
 
-Update the following files to your own content:
+I believe that science should be open and accessible to everyone. I believe that science should be reproducible and for that we should strive to make the scientific process and the results as transparent as possible. I also believe that we should strive to make the entire scientific process ethically motivated and that we should strive to make science a force for good by minimizing use of resources and maximizing the impact of our work.
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+### [Individual Growth and Development](/commitments/individual-growth-home)
 
-## Changing the version of the theme and/or Jekyll
+Each of us is unique and we all have our own strengths and weaknesses. I strive to recognize the strengths of each individual and to help them grow and develop, irrespective of their background or career stage. I believe that we should strive to be lifelong learners and that we should strive to be better people every day.
 
-Simply edit the relevant line(s) in the `Gemfile`.
+### [Good Experimental Design and Analysis](/commitments/experimental-design-home)
 
-## Adding a plugin
+I believe that good experimental design is the foundation of good science. I believe that we should strive to design experiments that are as simple and unbiased as possible while still being able to answer the question at hand. I also believe that this can be achieved by using a combination of the use of theoretical models to guide the experimental design, use of minimal controls, and smart and appropriate statistical analysis.
 
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
+### [Collaboration](/commitments/collaboration-home)
 
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
+I believe that collaboration is the key to success. I believe that we can achieve more by working together than by working alone. I believe that we should strive to create an environment where everyone feels comfortable to share their ideas and opinions and where everyone feels that they belong and are valued. Further, I believe that everyone should learn the skills needed to network in the scientific community and to collaborate with others.
 
-- Add the following to your site's `Gemfile`:
+### [Remembering the Big Picture](/commitments/big-picture-home)
 
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
+Often, we get so caught up in the details of our work that we forget to take a step back and look at the big picture. I believe that we should strive to remember the big picture and to keep in mind the ultimate goal of our work. In other words, even in our search for 'what' and 'how', we should not forget the 'why' (Niko Tinbergen's Four Questions).
 
-- And add the following to your site's `_config.yml`:
+## Contact
 
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
-  
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
+If you have any questions or comments, please feel free to contact me at [neurorishika@gmail.com](mailto: neurorishika@gmail.com) or reach out to me on [Twitter](https://twitter.com/neurorishika) or [LinkedIn](https://www.linkedin.com/in/neurorishika/).
 
-## Publishing your site on GitHub Pages
+## Disclaimer and Improvements
 
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
+ The website is under continuous development, so please excuse the mess. I will be adding more content as I go along. If you have any suggestions for improving the website, please feel free to submit a pull request at any of the pages on the website. You can also submit an issue on the [GitHub repository](https://github.com/neurorishika/commitments) for the website.
 
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    theme: just-the-docs
+## Acknowledgements
 
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
+This website was built using the [Just the Docs](https://pmarsceill.github.io/just-the-docs/) theme for Jekyll. The theme was modified by [Rishika Mohanta](https://neurorishika.github.io/).
 
-    aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
-    ```
+## License
 
-2.  Push your updated `_config.yml` to your site on GitHub.
+This website is licensed under the MIT License. 
 
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
