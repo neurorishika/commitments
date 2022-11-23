@@ -2,7 +2,7 @@
 title: Neurodivergence and Disability in STEM
 layout: default
 nav_order: 4
-parent: Underrepresented Minorities in STEM
+parent: Minorities in STEM
 permalink: /dei/d-in-stem
 ---
 
